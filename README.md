@@ -19,7 +19,7 @@ Buka Chrome ketik url : https://localhost/Destiny-Industries
 # Install On Windows ✅
 
 ```bash
-$ git clone https://github.com/Julius-Ulee/Destiny.Industries.git
+$ git clone https://github.com/0zunu/Destiny.Industries.git
 $ cd Destiny-Industries
 ```
 
